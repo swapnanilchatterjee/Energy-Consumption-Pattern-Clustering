@@ -1,7 +1,3 @@
-Perfect 👍
-Below is a **clean, professional GitHub README** you can **directly copy-paste** into your repository.
-It is **recruiter-friendly, interview-safe, and portfolio-ready**.
-
 ---
 
 # 🔋 Energy Consumption Pattern Clustering
